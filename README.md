@@ -14,7 +14,6 @@ As ferramentas escolhidas visam a transição de um modelo de infraestrutura leg
 3.  **AWS Lambda**: Automação de processos via computação Serverless para eliminar instâncias ociosas.
 
 ## 📂 Estrutura do Repositório
-- `/docs`: Contém o relatório detalhado de implementação.
 - `README.md`: Resumo executivo do projeto.
 
 ## 🧠 Aprendizados
